@@ -1,6 +1,6 @@
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
-# PSM Toolkit
+# Production Stage Manager Toolkit
 
 **Rice Chinese Theater Club 制作工具合集**
 
@@ -16,9 +16,9 @@ PSM Toolkit 是 Rice 中文话剧社制作舞台监督 (Production Stage Manager
 
 | 工具 | 仓库 | 说明 | 状态 |
 |---|---|---|---|
-| 电子走位本 | [online_blocking_notes](https://github.com/Rice-Chinese-Theater-Club/online_blocking_notes) | 在线走位记录与台词管理系统，支持实时同步 | Active |
-| 字幕生成器 | [Subtitle_Maker](https://github.com/Rice-Chinese-Theater-Club/Subtitle_Maker) | 双语字幕PPT自动生成工具 | Active |
-| AI助理舞监 | [BETA_AI_ASM](https://github.com/Rice-Chinese-Theater-Club/BETA_AI_ASM) | AI助理舞台监督（开发中） | Planning |
+| 电子走位本 | [stage-blocking-app](https://github.com/Rice-Chinese-Theater-Club/stage-blocking-app) | 在线走位记录与台词管理系统，支持实时同步 | Active |
+| 字幕生成器 | [subtitle-maker](https://github.com/Rice-Chinese-Theater-Club/subtitle-maker) | 双语字幕PPT自动生成工具 | Active |
+| AI助理舞监 | [ai-stage-manager](https://github.com/Rice-Chinese-Theater-Club/ai-stage-manager) | AI助理舞台监督（开发中） | Planning |
 
 ---
 
